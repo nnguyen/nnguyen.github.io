@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "Nguyen Nguyen",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": " nguyen.a.nguyen@gmail.com",
+    "phone": "(612) 234-7776",
+    "website": "nnguyen.me",
+    "summary": "An accomplished application developer with over 15 years of experience working with a variety of open source and commercial tools. Knowledgeable in all phases of application software, product life cycle and software development processes. Self-motivated to improve software quality, software process, and learn new technologies and methodologies. Excel at problem solving both in teams and alone.",
+    "location": {
+      "address": "",
+      "postalCode": "CA 94580",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "nnguyen",
+        "url": "https://github.com/nnguyen"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "nguyenanguyen",
+        "url": "https://www.linkedin.com/in/nguyenanguyen/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Entagen/Thomson Reuters",
+      "position": "Senior Software Engineer",
+      "website": "https://www.thomsonreuters.com",
+      "startDate": "2011",
+      "endDate": "Present",
+      "summary": "Full-stack development of software products including web, search, RDF, and Big Data applications utilizing technologies such as Java/Groovy, Grails, Apache SolrCloud, Accumulo, Hadoop, YARN, Map Reduce, and various JavaScript frameworks/libraries.",
+      "highlights": [
+        "Designed and implemented full system backup and restore.",
+        "Designed and implemented Relational Database connector data mapping via query.",
+        "Refactored document connectors to convert data to RDF."
+      ]
+    },
+    {
+      "company": "Lockheed Martin",
+      "position": "Senior Software Engineer",
+      "website": "https://www.lockheedmartin.com",
+      "startDate": "2000",
+      "endDate": "2011",
+      "summary": "Design, implement, and integrate air traffic management software and P3-C (aircraft) software. Successfully contributed to several demanding projects with aggressive schedules and safety-critical requirements. Supported software team members, system engineers, and test engineers throughout the life cycle of each project.",
+      "highlights": [
+        "Led design and implementation of Integrated Terminal Weather System (ITWS) weather simulator for Automated Radar Terminal System (ARTS) using Java SE with Swing.",
+        "Designed and implemented revision behind capability allowing ARTS Color Display (ACD) with one revision worked with systems of different revisions.",
+        "Designed and implemented web-based monitor and control capability for ARTS to remove dependency on proprietary platform (Windows) with server software on CompactPCI platform.",
+        "Designed and implemented Factory Acceptance Test software for next generation ARTS Processor (AP) on x86 server platform.",
+        "Designed and implemented capabilities for P3-C software using SOA with J2EE technologies."
+      ]
+    },
+    {
+      "company": "University of Minnesota",
+      "position": "Webmaster",
+      "website": "https://www.umn.edu",
+      "startDate": "1997",
+      "endDate": "2000",
+      "summary": "Developed and maintained College of Veterinary Medicine online form application, monthly department financial status website, and provided computer users with technical and procedural information. Developed and maintained College of Liberal Arts online placement testing website.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "BSA Cub Scouts - Pack 216",
+      "position": "Den Leader",
+      "website": "",
+      "startDate": "2016",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Chanh Hoa Youth Association",
+      "position": "Adult Leader",
+      "website": "",
+      "startDate": "2017",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Minnesota",
+      "area": "Software Engineering",
+      "studyType": "MS",
+      "startDate": "2009",
+      "endDate": "2011",
+      "gpa": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "University of Minnesota",
+      "area": "Computer Science",
+      "studyType": "BS",
+      "startDate": "1996",
+      "endDate": "2000",
+      "gpa": "3.6",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "Master",
+      "keywords": [
+        "Java, Groovy, C/C++",
+        "Python, Perl, Bash",
+        "JavaScript, HTML, CSS",
+        "Oracle, PostgreSQL, MySQL/MariaDB",
+        "Redis, Solr, Accumulo",
+        "Hadoop, YARN, MapReduce",
+        "AWS",
+        "JUnit, Spock",
+        "GitHub",
+        "Jenkins",
+        "Linux, MacOS, Windows",
+        "IntelliJ, Eclipse"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Vietnamese",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photography",
+      "keywords": []
+    },
+    {
+      "name": "Tinkering",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": "Available upon request"
+    }
+  ]
+}
