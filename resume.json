@@ -63,7 +63,10 @@
       "startDate": "1997",
       "endDate": "2000",
       "summary": "Developed and maintained College of Veterinary Medicine online form application, monthly department financial status website, and provided computer users with technical and procedural information. Developed and maintained College of Liberal Arts online placement testing website.",
-      "highlights": []
+      "highlights": [
+        "Designed and implemented barcode into forms for quicker access.",
+        "Migrated placement testing data from mSQL to MySQL for better performance."
+      ]
     }
   ],
   "volunteer": [
