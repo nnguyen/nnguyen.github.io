@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <!--jQuery-->
+  <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+  <!--Angular-->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.js"></script>
+  <!--Bootstrap-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+  <!--ng-jsonresume-->
+  <script src="ng-jsonresume.js"></script>
+
+  <script>
+    // create a new module called mywebsite that uses ng-jsonresume as a dependency
+    angular.module('mywebsite', ['ng-jsonresume']);
+  </script>
+</head>
+
+<body ng-app="mywebsite">
+  <div class="container">
+    <h1>ng-jsonresume</h1>
+    <p>This is an example of ng-jsonresume in action.</p>
+    <p>The following code produces the result below - take a look at the source of this page to see how to use it:
+      <br><code>&lt;resume resume-url="example-resume.json" template-url="templates/resume-template-flat.html"&gt;&lt;/resume&gt;</code>
+    </p>
+
+    <resume resume-url="example-resume.json" template-url="templates/resume-template-flat.html"></resume>
+  </div>
+</body>
+
+</html>

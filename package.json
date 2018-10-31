@@ -1,0 +1,53 @@
+{
+  "_from": "ng-jsonresume",
+  "_id": "ng-jsonresume@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-82n02QQ5QEy6gQqP5dBKFAPLqy0=",
+  "_location": "/ng-jsonresume",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ng-jsonresume",
+    "name": "ng-jsonresume",
+    "escapedName": "ng-jsonresume",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ng-jsonresume/-/ng-jsonresume-0.0.3.tgz",
+  "_shasum": "f369f4d90439404cba810a8fe5d04a1403cbab2d",
+  "_spec": "ng-jsonresume",
+  "_where": "/Users/nguyen/Projects",
+  "author": {
+    "name": "Marko Knöbl",
+    "email": "marko.kn@gmail.com",
+    "url": "http://karuga.eu/"
+  },
+  "bugs": {
+    "url": "https://github.com/marko-knoebl/ng-jsonresume/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Angular 1 directive to include JSON resumes",
+  "homepage": "https://github.com/marko-knoebl/ng-jsonresume#readme",
+  "keywords": [
+    "angular1",
+    "jsonresume"
+  ],
+  "license": "ISC",
+  "main": "ng-jsonresume.js",
+  "name": "ng-jsonresume",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marko-knoebl/ng-jsonresume.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.3"
+}
