@@ -3,10 +3,10 @@
     "name": "Nguyen Nguyen",
     "label": "Software Engineer",
     "picture": "",
-    "email": " nguyen.a.nguyen@gmail.com",
+    "email": "nguyen.a.nguyen@gmail.com",
     "phone": "(612) 234-7776",
     "website": "nnguyen.me",
-    "summary": "An accomplished application developer with over 15 years of experience working with a variety of open source and commercial tools. Knowledgeable in all phases of application software, product life cycle and software development processes. Self-motivated to improve software quality, software process, and learn new technologies and methodologies. Excel at problem solving both in teams and alone.",
+    "summary": "An accomplished application developer with over 15 years of experience working with a variety of open source and commercial tools. Knowledgeable in all phases of application software, product life cycle, and software development processes. Self-motivated to improve software quality, software process, and learn new technologies and methodologies. Excel at problem-solving both in teams and alone.",
     "location": {
       "address": "",
       "postalCode": "CA 94580",
@@ -32,8 +32,8 @@
       "company": "Entagen/Thomson Reuters",
       "position": "Senior Software Engineer",
       "website": "https://www.thomsonreuters.com",
-      "startDate": "2011",
-      "endDate": "Present",
+      "startDate": "2011-09-12",
+      "endDate": "2018-12-31",
       "summary": "Full-stack development of software products including web, search, RDF, and Big Data applications utilizing technologies such as Java/Groovy, Grails, Apache SolrCloud, Accumulo, Hadoop, YARN, Map Reduce, and various JavaScript frameworks/libraries.",
       "highlights": [
         "Designed and implemented full system backup and restore.",
@@ -45,8 +45,8 @@
       "company": "Lockheed Martin",
       "position": "Senior Software Engineer",
       "website": "https://www.lockheedmartin.com",
-      "startDate": "2000",
-      "endDate": "2011",
+      "startDate": "2000-06-12",
+      "endDate": "2011-09-09",
       "summary": "Design, implement, and integrate air traffic management software and P3-C (aircraft) software. Successfully contributed to several demanding projects with aggressive schedules and safety-critical requirements. Supported software team members, system engineers, and test engineers throughout the life cycle of each project.",
       "highlights": [
         "Led design and implementation of Integrated Terminal Weather System (ITWS) weather simulator for Automated Radar Terminal System (ARTS) using Java SE with Swing.",
@@ -60,8 +60,8 @@
       "company": "University of Minnesota",
       "position": "Webmaster",
       "website": "https://www.umn.edu",
-      "startDate": "1997",
-      "endDate": "2000",
+      "startDate": "1997-01-05",
+      "endDate": "2000-06-09",
       "summary": "Developed and maintained College of Veterinary Medicine online form application, monthly department financial status website, and provided computer users with technical and procedural information. Developed and maintained College of Liberal Arts online placement testing website.",
       "highlights": [
         "Designed and implemented barcode into forms for quicker access.",
@@ -74,8 +74,8 @@
       "organization": "BSA Cub Scouts - Pack 216",
       "position": "Den Leader",
       "website": "",
-      "startDate": "2016",
-      "endDate": "Present",
+      "startDate": "2016-01-05",
+      "endDate": "2018-12-31",
       "summary": "",
       "highlights": []
     },
@@ -83,8 +83,8 @@
       "organization": "Chanh Hoa Youth Association",
       "position": "Adult Leader",
       "website": "",
-      "startDate": "2017",
-      "endDate": "Present",
+      "startDate": "2017-01-05",
+      "endDate": "2018-12-31",
       "summary": "",
       "highlights": []
     }
@@ -94,18 +94,18 @@
       "institution": "University of Minnesota",
       "area": "Software Engineering",
       "studyType": "MS",
-      "startDate": "2009",
-      "endDate": "2011",
-      "gpa": "4.0",
+      "startDate": "2009-09-05",
+      "endDate": "2011-06-01",
+      "gpa": "",
       "courses": []
     },
     {
       "institution": "University of Minnesota",
       "area": "Computer Science",
       "studyType": "BS",
-      "startDate": "1996",
-      "endDate": "2000",
-      "gpa": "3.6",
+      "startDate": "1996-09-05",
+      "endDate": "2000-06-01",
+      "gpa": "",
       "courses": []
     }
   ],
