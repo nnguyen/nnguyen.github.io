@@ -33,7 +33,7 @@
       "position": "Senior Software Engineer",
       "website": "https://www.thomsonreuters.com",
       "startDate": "2011-09-12",
-      "endDate": "2018-12-31",
+      "endDate": "",
       "summary": "Full-stack development of software products including web, search, RDF, and Big Data applications utilizing technologies such as Java/Groovy, Grails, Apache SolrCloud, Accumulo, Hadoop, YARN, Map Reduce, and various JavaScript frameworks/libraries.",
       "highlights": [
         "Designed and implemented full system backup and restore.",
@@ -75,7 +75,7 @@
       "position": "Den Leader",
       "website": "",
       "startDate": "2016-01-05",
-      "endDate": "2018-12-31",
+      "endDate": "",
       "summary": "",
       "highlights": []
     },
@@ -84,7 +84,7 @@
       "position": "Adult Leader",
       "website": "",
       "startDate": "2017-01-05",
-      "endDate": "2018-12-31",
+      "endDate": "",
       "summary": "",
       "highlights": []
     }
